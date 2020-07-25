@@ -19,7 +19,6 @@ I'm a student in `Daegu Software High School`.
 
 - 📫 How to reach me: ...
 -->
-<hr/>
 
 ### 🔭 Stacks
 - NodeJS

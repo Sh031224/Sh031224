@@ -13,7 +13,7 @@ I'm a student in `Daegu Software High School`.
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1cktmdgh2@gmail.com)](mailto:1cktmdgh2@gmail.com) 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sh031224&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sh031224&hide=html,java,c,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sh031224&hide=html,java,c,css,c%2B%2B)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 - 🌱 I’m currently learning ...

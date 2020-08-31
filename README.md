@@ -35,7 +35,7 @@ I'm a student in `Daegu Software High School`.
 - React Native
 - Flutter
 - Electron
-- NestJS
+- NextJS
 
 ### 💬 Ask me about ...
 - 1cktmdgh2@gmail.com

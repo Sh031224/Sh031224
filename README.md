@@ -36,6 +36,7 @@ I'm a student in `Daegu Software High School`.
 - Flutter
 - Electron
 - NextJS
+- Spring
 
 ### 💬 Ask me about ...
 - 1cktmdgh2@gmail.com

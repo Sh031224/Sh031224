@@ -1,19 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Hi%20there%20👋&fontSize=60&fontAlignY=35)
 
-
-## @Sh031224 Hi there 👋
-
 I'm a student in `Daegu Software High School`.
 
-<!--
-### 🔭 Languages
-- C
-- JAVA
-- JavaScript/TypeScript
--->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSh031224)](https://hits.seeyoufarm.com)
+![Profile views](https://gpvc.arturio.dev/Sh031224)
+<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSh031224)](https://hits.seeyoufarm.com)-->
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=hhttps://www.facebook.com/profile.php?id=100048700034135)](https://www.facebook.com/profile.php?id=100048700034135)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1cktmdgh2@gmail.com)](mailto:1cktmdgh2@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1cktmdgh2@gmail.com)](mailto:1cktmdgh2@gmail.com)
+
+
+[![Sh031224 StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=12651185&layout=compact)](https://stackoverflow.com/users/12651185/sh031224)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sh031224&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sh031224&hide=html,c,css,c%2B%2B)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi%20there%20👋&fontSize=90)
+
+
 ## @Sh031224 Hi there 👋
 
 I'm a student in `Daegu Software High School`.

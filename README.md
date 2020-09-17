@@ -10,6 +10,7 @@ I'm a student in `Daegu Software High School`.
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sh031224&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sh031224&hide=html,c,css,c%2B%2B)](https://github.com/anuraghazra/github-readme-stats)
 
+### 사용 기술
 
 <table>
   <thead>

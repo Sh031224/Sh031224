@@ -22,8 +22,8 @@ I'm a student in `Daegu Software High School`.
   </thead>
   <tbody>
     <tr>
-      <td width="51px">
-        <img src="https://img.icons8.com/color/24/000000/react-native.png" />
+      <td width="60px">
+        <img src="https://user-images.githubusercontent.com/51149996/93740096-c4dc1000-fc24-11ea-8e27-682dd7efcb56.png" />
       </td>
       <td>
         React
@@ -31,13 +31,13 @@ I'm a student in `Daegu Software High School`.
       <td>
         주로 TypeScript로 만들고 싶은 프로젝트를 제작합니다.
       </td>
-      <td width="118px">
+      <td width="130px">
         <img src="https://progress-bar.dev/80" />
       </td>
     </tr>
     <tr>
-      <td width="51px">
-        <img src="https://img.icons8.com/color/24/000000/vue-js.png" />
+      <td width="60px">
+        <img src="https://user-images.githubusercontent.com/51149996/93740180-f5bc4500-fc24-11ea-87e1-b20d632c3e72.png" />
       </td>
       <td>
         Vue.js
@@ -45,12 +45,12 @@ I'm a student in `Daegu Software High School`.
       <td>
         주로 간단한 프로젝트를 제작할때 사용합니다.
       </td>
-      <td width="118px">
+      <td width="130px">
         <img src="https://progress-bar.dev/85" />
       </td>
     </tr>
     <tr>
-      <td width="51px">
+      <td width="60px">
         <img src="https://user-images.githubusercontent.com/51149996/93405555-4439ae80-f8c8-11ea-9390-1aeca1681673.png" />
       </td>
       <td>
@@ -64,8 +64,8 @@ I'm a student in `Daegu Software High School`.
       </td>
     </tr>
     <tr>
-      <td width="51px">
-        <img src="https://user-images.githubusercontent.com/51149996/93405795-f2455880-f8c8-11ea-9cbf-6bc568549b8a.png" />
+      <td width="60px">
+        <img src="https://user-images.githubusercontent.com/51149996/93740280-243a2000-fc25-11ea-9120-816e4819f1cb.png" />
       </td>
       <td>
         ExpressJS
@@ -73,12 +73,12 @@ I'm a student in `Daegu Software High School`.
       <td>
         Express로 Rest api를 만들 수 있습니다.
       </td>
-      <td width="118px">
+      <td width="130px">
         <img src="https://progress-bar.dev/75" />
       </td>
     </tr>
     <tr>
-      <td width="51px">
+      <td width="60px">
         <img src="https://user-images.githubusercontent.com/51149996/93405687-9e3a7400-f8c8-11ea-8ee0-abd96927cd86.png" />
       </td>
       <td>
@@ -87,13 +87,13 @@ I'm a student in `Daegu Software High School`.
       <td>
         TypeORM으로 주로 서버를 제작합니다.
       </td>
-      <td width="118px">
+      <td width="130px">
         <img src="https://progress-bar.dev/70" />
       </td>
     </tr>
     <tr>
-      <td width="51px">
-        <img src="https://user-images.githubusercontent.com/51149996/93405941-67b12900-f8c9-11ea-98ff-21ef3b6f3436.png" />
+      <td width="60px">
+        <img src="https://user-images.githubusercontent.com/51149996/93739974-88a8af80-fc24-11ea-8b22-59067beccf1b.png" />
       </td>
       <td>
         Spring Boot
@@ -101,7 +101,7 @@ I'm a student in `Daegu Software High School`.
       <td>
         현재 공부중입니다.
       </td>
-      <td width="118px">
+      <td width="130px">
         <img src="https://progress-bar.dev/10" />
       </td>
     </tr>

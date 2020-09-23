@@ -51,7 +51,7 @@ I'm a student in `Daegu Software High School`.
     </tr>
     <tr>
       <td width="60px">
-        <img src="https://user-images.githubusercontent.com/51149996/93405555-4439ae80-f8c8-11ea-9390-1aeca1681673.png" />
+        <img src="https://nuxtjs.org/logos/nuxt.svg" />
       </td>
       <td>
         Nuxt.js

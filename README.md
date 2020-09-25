@@ -15,10 +15,11 @@ I love open source 😍. &nbsp; I'm interested in web development and security.
 
 ### Technology stack
 
-<table>
+<img src="https://user-images.githubusercontent.com/51149996/94318875-6e742600-ffc4-11ea-8642-60a9f13f1ff2.png" />
+<!--<table>
   <thead>
     <tr>
-      <td width="88px"></td>
+      <td width="78px"></td>
       <td>Language</td>
       <td>Description</td>
       <td width="130px">Progress</td>
@@ -27,7 +28,7 @@ I love open source 😍. &nbsp; I'm interested in web development and security.
     <tr>
       <td>
         <code>
-          <img width="50px" src="https://user-images.githubusercontent.com/51149996/94307688-382cab80-ffb0-11ea-9c13-32c7e3b7401f.png" />
+          <img width="40px" src="https://user-images.githubusercontent.com/51149996/94307688-382cab80-ffb0-11ea-9c13-32c7e3b7401f.png" />
         </code>
       </td>
       <td>
@@ -43,7 +44,7 @@ I love open source 😍. &nbsp; I'm interested in web development and security.
     <tr>
       <td>
         <code>
-          <img width="50px" src="https://user-images.githubusercontent.com/51149996/94310035-f1d94b80-ffb3-11ea-9a25-d02c5d2f9f6e.png" />
+          <img width="40px" src="https://user-images.githubusercontent.com/51149996/94310035-f1d94b80-ffb3-11ea-9a25-d02c5d2f9f6e.png" />
         </code>
       </td>
       <td>
@@ -59,7 +60,7 @@ I love open source 😍. &nbsp; I'm interested in web development and security.
     <tr>
       <td>
         <code>
-        <img width="50px" src="https://user-images.githubusercontent.com/51149996/94309908-c3f40700-ffb3-11ea-9169-8477ebec261a.png" />
+        <img width="40px" src="https://user-images.githubusercontent.com/51149996/94309908-c3f40700-ffb3-11ea-9169-8477ebec261a.png" />
         </code>
       </td>
       <td>
@@ -75,7 +76,7 @@ I love open source 😍. &nbsp; I'm interested in web development and security.
     <tr>
       <td>
         <code>
-        <img width="50px" src="https://user-images.githubusercontent.com/51149996/94308864-20eebd80-ffb2-11ea-9a18-0ca00c6b9f7b.png" />
+        <img width="40px" src="https://user-images.githubusercontent.com/51149996/94308864-20eebd80-ffb2-11ea-9a18-0ca00c6b9f7b.png" />
       </td>
       </code>
       <td>
@@ -91,7 +92,7 @@ I love open source 😍. &nbsp; I'm interested in web development and security.
     <tr>
       <td>
         <code>
-        <img width="50px" src="https://user-images.githubusercontent.com/51149996/94311207-d2dbb900-ffb5-11ea-90cf-c2616111fa4f.png" />
+        <img width="40px" src="https://user-images.githubusercontent.com/51149996/94311207-d2dbb900-ffb5-11ea-90cf-c2616111fa4f.png" />
         </code>
       </td>
       <td>
@@ -107,7 +108,7 @@ I love open source 😍. &nbsp; I'm interested in web development and security.
     <tr>
       <td>
         <code>
-        <img width="50px" src="https://user-images.githubusercontent.com/51149996/94312994-e8061700-ffb8-11ea-9660-c989e1f1ad5d.png" />
+        <img width="40px" src="https://user-images.githubusercontent.com/51149996/94312994-e8061700-ffb8-11ea-9660-c989e1f1ad5d.png" />
         </code>
       </td>
       <td>
@@ -123,7 +124,7 @@ I love open source 😍. &nbsp; I'm interested in web development and security.
     <tr>
       <td>
         <code>
-        <img width="50px" src="https://user-images.githubusercontent.com/51149996/94313385-95792a80-ffb9-11ea-8b54-c8942d6df6af.png" />
+        <img width="40px" src="https://user-images.githubusercontent.com/51149996/94313385-95792a80-ffb9-11ea-8b54-c8942d6df6af.png" />
         </code>
       </td>
       <td>
@@ -138,3 +139,4 @@ I love open source 😍. &nbsp; I'm interested in web development and security.
     </tr>
   </tbody>
 </table>
+-->

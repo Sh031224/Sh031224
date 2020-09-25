@@ -15,7 +15,7 @@ I love open source 😍. &nbsp; I'm interested in web development and security.
 
 ### Technology stack
 
-<img src="https://user-images.githubusercontent.com/51149996/94318875-6e742600-ffc4-11ea-8642-60a9f13f1ff2.png" />
+<img width="730px" src="https://user-images.githubusercontent.com/51149996/94318875-6e742600-ffc4-11ea-8642-60a9f13f1ff2.png" />
 <!--<table>
   <thead>
     <tr>

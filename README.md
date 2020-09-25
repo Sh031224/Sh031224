@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Hi%20there%20👋&fontSize=60&fontAlignY=35)
 
-I'm a student in `Daegu Software High School`.
+#### I love open source 😍
 
 <!--[![Sh031224 StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=12651185)](https://stackoverflow.com/users/12651185/sh031224)-->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSh031224)](https://hits.seeyoufarm.com)
@@ -10,15 +10,15 @@ I'm a student in `Daegu Software High School`.
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sh031224&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sh031224&hide=html,c,css,c%2B%2B)](https://github.com/anuraghazra/github-readme-stats)
 
-### 사용 기술
+### Technology stack
 
 <table>
   <thead>
     <tr>
       <td></td>
-      <td>이름</td>
-      <td>설명</td>
-      <td>진행</td>
+      <td>Language</td>
+      <td>Description</td>
+      <td>Progress</td>
   </thead>
   <tbody>
     <tr>
@@ -29,7 +29,7 @@ I'm a student in `Daegu Software High School`.
         React
       </td>
       <td>
-        주로 TypeScript로 만들고 싶은 프로젝트를 제작합니다.
+        I mainly create projects I want to make in TypeScript.
       </td>
       <td width="130px">
         <img src="https://progress-bar.dev/80" />
@@ -43,7 +43,7 @@ I'm a student in `Daegu Software High School`.
         Next.js
       </td>
       <td>
-        SSR이 필요한 프로젝트에 사용합니다.
+        Use for projects that require SSR.
       </td>
       <td width="130px">
         <img src="https://progress-bar.dev/65" />
@@ -57,7 +57,7 @@ I'm a student in `Daegu Software High School`.
         Vue.js
       </td>
       <td>
-        주로 간단한 프로젝트를 제작할때 사용합니다.
+        I use when making a simple project.
       </td>
       <td width="130px">
         <img src="https://progress-bar.dev/85" />
@@ -71,7 +71,7 @@ I'm a student in `Daegu Software High School`.
         Nuxt.js
       </td>
       <td>
-        Vue로 SSR을 지원한다는 점이 마음에 들어서 사용중입니다.
+        I am using it because I like the fact that Vue supports SSR.
       </td>
       <td width="118px">
         <img src="https://progress-bar.dev/75" />
@@ -82,10 +82,10 @@ I'm a student in `Daegu Software High School`.
         <img src="https://user-images.githubusercontent.com/51149996/93740280-243a2000-fc25-11ea-9120-816e4819f1cb.png" />
       </td>
       <td>
-        ExpressJS
+        Express
       </td>
       <td>
-        Express로 Rest api를 만들 수 있습니다.
+        I can make Rest api with Express.
       </td>
       <td width="130px">
         <img src="https://progress-bar.dev/75" />
@@ -99,7 +99,7 @@ I'm a student in `Daegu Software High School`.
         TypeORM
       </td>
       <td>
-        TypeORM으로 주로 서버를 제작합니다.
+        I mainly make servers with TypeORM.
       </td>
       <td width="130px">
         <img src="https://progress-bar.dev/70" />
@@ -113,7 +113,7 @@ I'm a student in `Daegu Software High School`.
         Spring Boot
       </td>
       <td>
-        현재 공부중입니다.
+        I am currently studying.
       </td>
       <td width="130px">
         <img src="https://progress-bar.dev/15" />

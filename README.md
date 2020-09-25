@@ -37,6 +37,20 @@ I'm a student in `Daegu Software High School`.
     </tr>
     <tr>
       <td width="60px">
+        <img src="https://user-images.githubusercontent.com/51149996/94295682-92237600-ff9c-11ea-80dd-e33f3874c166.png" />
+      </td>
+      <td>
+        Next.js
+      </td>
+      <td>
+        SSR이 필요한 프로젝트에 사용합니다.
+      </td>
+      <td width="130px">
+        <img src="https://progress-bar.dev/65" />
+      </td>
+    </tr>
+    <tr>
+      <td width="60px">
         <img src="https://user-images.githubusercontent.com/51149996/93740180-f5bc4500-fc24-11ea-87e1-b20d632c3e72.png" />
       </td>
       <td>
@@ -57,7 +71,7 @@ I'm a student in `Daegu Software High School`.
         Nuxt.js
       </td>
       <td>
-        SSR을 지원한다는 점이 마음에 들어서 사용중입니다.
+        Vue로 SSR을 지원한다는 점이 마음에 들어서 사용중입니다.
       </td>
       <td width="118px">
         <img src="https://progress-bar.dev/75" />
@@ -102,7 +116,7 @@ I'm a student in `Daegu Software High School`.
         현재 공부중입니다.
       </td>
       <td width="130px">
-        <img src="https://progress-bar.dev/10" />
+        <img src="https://progress-bar.dev/15" />
       </td>
     </tr>
   </tbody>

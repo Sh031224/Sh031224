@@ -1,17 +1,18 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Hi%20there%20👋&fontSize=60&fontAlignY=35) -->
-
 <h1 align="center">
   Hi <img src="./assets/Hi.gif" width="30px" style="max-width:100%;">
 </h1>
 
-<!--[![Sh031224 StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=12651185)](https://stackoverflow.com/users/12651185/sh031224)-->
+<p align="center">
 
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSh031224)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSh031224)](https://hits.seeyoufarm.com)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=hhttps://www.facebook.com/profile.php?id=100048700034135)](https://www.facebook.com/profile.php?id=100048700034135)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1cktmdgh2@gmail.com)](mailto:1cktmdgh2@gmail.com)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sh031224&show_icons=true&hide_border=true&count_private=true&icon_color=FC2C2B&title_color=FC2C2B)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sh031224&hide=html,c,css,c%2B%2B&title_color=FC2C2B)](https://github.com/anuraghazra/github-readme-stats) -->
+</p>
+
+<p align="center">
+  <img src="./assets/desktop.png" width="300px">
+</p>
 
 ## Introduce
 
@@ -19,8 +20,7 @@ I love open source 😍. &nbsp; I'm interested in web development and security.
 
 ### Technology stack
 
-<img width="730px" src="https://user-images.githubusercontent.com/51149996/94318875-6e742600-ffc4-11ea-8642-60a9f13f1ff2.png" />
-<table>
+<table width="100%">
   <thead>
     <tr>
       <td width="78px"></td>

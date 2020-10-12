@@ -1,24 +1,28 @@
 # Hi <img src="./assets/Hi.gif" width="30px" style="max-width:100%;">
 
+<p align="center">
+  <img src="./assets/desktop.png" width="300px">
+</p>
+
+## Introduce
+
+<br />
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSh031224)](https://hits.seeyoufarm.com)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=hhttps://www.facebook.com/profile.php?id=100048700034135)](https://www.facebook.com/profile.php?id=100048700034135)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1cktmdgh2@gmail.com)](mailto:1cktmdgh2@gmail.com)
 
-
-<img src="./assets/desktop.png" width="300px">
-
-
-## Introduce
-
-I love open source 😍. &nbsp; I'm interested in web development and security.
+> I love open source 😍. &nbsp; I'm interested in web development and security.
 
 ### Technology stack
 
-<table>
+<img width="730px" src="https://user-images.githubusercontent.com/51149996/94318875-6e742600-ffc4-11ea-8642-60a9f13f1ff2.png" />
+<!--<table>
   <thead>
     <tr>
       <td width="78px"></td>
       <td>Language</td>
+      <td>Description</td>
       <td width="130px">Progress</td>
   </thead>
   <tbody>
@@ -30,6 +34,9 @@ I love open source 😍. &nbsp; I'm interested in web development and security.
       </td>
       <td>
         React
+      </td>
+      <td>
+        I mainly create projects I want to make in TypeScript.
       </td>
       <td>
         <img width="100px" src="https://progress-bar.dev/80" />
@@ -45,6 +52,9 @@ I love open source 😍. &nbsp; I'm interested in web development and security.
         Next.js
       </td>
       <td>
+        Use for projects that require SSR.
+      </td>
+      <td>
         <img width="100px" src="https://progress-bar.dev/65" />
       </td>
     </tr>
@@ -58,6 +68,9 @@ I love open source 😍. &nbsp; I'm interested in web development and security.
         Vue.js
       </td>
       <td>
+        I use when making a simple project.
+      </td>
+      <td>
         <img width="100px" src="https://progress-bar.dev/85" />
       </td>
     </tr>
@@ -69,6 +82,9 @@ I love open source 😍. &nbsp; I'm interested in web development and security.
       </code>
       <td>
         Nuxt.js
+      </td>
+      <td>
+        I am using it because I like the fact that Vue supports SSR.
       </td>
       <td width="118px">
         <img width="100px" src="https://progress-bar.dev/75" />
@@ -84,6 +100,9 @@ I love open source 😍. &nbsp; I'm interested in web development and security.
         Express
       </td>
       <td>
+        I can make Rest api with Express.
+      </td>
+      <td>
         <img width="100px" src="https://progress-bar.dev/75" />
       </td>
     </tr>
@@ -95,6 +114,9 @@ I love open source 😍. &nbsp; I'm interested in web development and security.
       </td>
       <td>
         TypeORM
+      </td>
+      <td>
+        I mainly make servers with TypeORM.
       </td>
       <td>
         <img width="100px" src="https://progress-bar.dev/70" />
@@ -110,8 +132,12 @@ I love open source 😍. &nbsp; I'm interested in web development and security.
         Spring Boot
       </td>
       <td>
+        I am currently studying.
+      </td>
+      <td>
         <img width="100px" src="https://progress-bar.dev/15" />
       </td>
     </tr>
   </tbody>
 </table>
+-->

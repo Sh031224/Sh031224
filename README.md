@@ -16,8 +16,9 @@
 
 ### Technology stack
 
-<img width="730px" src="https://user-images.githubusercontent.com/51149996/94318875-6e742600-ffc4-11ea-8642-60a9f13f1ff2.png" />
-<!--<table>
+<img width="730px" src="https://user-images.githubusercontent.com/51149996/98192261-12ef6d80-1f5e-11eb-8fd3-6a0d770702fd.png" />
+<!--
+<table>
   <thead>
     <tr>
       <td width="78px"></td>
@@ -135,7 +136,39 @@
         I am currently studying.
       </td>
       <td>
-        <img width="100px" src="https://progress-bar.dev/15" />
+        <img width="100px" src="https://progress-bar.dev/35" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <code>
+        <img width="40px" src="./assets/kotlin.png" />
+        </code>
+      </td>
+      <td>
+        Kotlin
+      </td>
+      <td>
+        I like kotlin grammar.
+      </td>
+      <td>
+        <img width="100px" src="https://progress-bar.dev/40" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <code>
+        <img width="40px" src="./assets/docker.png" />
+        </code>
+      </td>
+      <td>
+        Docker
+      </td>
+      <td>
+        I am trying to deploy a lot with docker.
+      </td>
+      <td>
+        <img width="100px" src="https://progress-bar.dev/45" />
       </td>
     </tr>
   </tbody>

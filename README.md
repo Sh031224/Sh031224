@@ -16,7 +16,7 @@
 
 ### Technology stack
 
-<img width="730px" src="https://user-images.githubusercontent.com/51149996/98192261-12ef6d80-1f5e-11eb-8fd3-6a0d770702fd.png" />
+<img width="730px" src="https://user-images.githubusercontent.com/51149996/104853602-4fb7e780-5945-11eb-97c4-4c7bde20b526.png" />
 <!--
 <table>
   <thead>
@@ -133,10 +133,10 @@
         Spring Boot
       </td>
       <td>
-        I am currently studying.
+        I can develop multiple Rest Api Servers.
       </td>
       <td>
-        <img width="100px" src="https://progress-bar.dev/35" />
+        <img width="100px" src="https://progress-bar.dev/70" />
       </td>
     </tr>
     <tr>
@@ -152,7 +152,7 @@
         I like kotlin grammar.
       </td>
       <td>
-        <img width="100px" src="https://progress-bar.dev/40" />
+        <img width="100px" src="https://progress-bar.dev/55" />
       </td>
     </tr>
     <tr>

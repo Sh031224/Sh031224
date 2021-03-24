@@ -8,13 +8,12 @@
 
 <br />
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSh031224&count_bg=%23666666&title_bg=%23A0A0A0&icon=react.svg&icon_color=%2308BEF7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Rocket Punch](http://asq.kr/12JPH80GZuNebw)](https://www.rocketpunch.com/@caseungho)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=hhttps://www.facebook.com/profile.php?id=100048700034135)](https://www.facebook.com/profile.php?id=100048700034135)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1cktmdgh2@gmail.com)](mailto:1cktmdgh2@gmail.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://slog.website)](https://slog.website)
-[![Resume](https://img.shields.io/badge/-Resume-black?style=flat-square&logo=github&link=https://sh031224.github.io/resume)](https://sh031224.github.io/resume)
-[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-black?style=flat-square&logo=stackoverflow&link=https://stackoverflow.com/users/12651185/sh031224)](https://stackoverflow.com/users/12651185/sh031224)
+<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSh031224&count_bg=%23666666&title_bg=%23A0A0A0&icon=react.svg&icon_color=%2308BEF7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white&link=hhttps://www.facebook.com/profile.php?id=100048700034135)](https://www.facebook.com/profile.php?id=100048700034135)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white&link=mailto:1cktmdgh2@gmail.com&style=for-the-badge)](mailto:1cktmdgh2@gmail.com)
+[![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-5373f8?style=for-the-badge&link=https://slog.website)](https://slog.website)
+[![Notion](https://img.shields.io/badge/-Notion-lightgray?style=for-the-badge&logo=notion&link=https://www.notion.so/Sh031224-46a88056930f4550bc1e542b468c743e)](https://www.notion.so/Sh031224-46a88056930f4550bc1e542b468c743e)
+[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-black?style=for-the-badge&logo=stackoverflow&link=https://stackoverflow.com/users/12651185/sh031224)](https://stackoverflow.com/users/12651185/sh031224)
 
 
 > I love open source 😍. &nbsp; I'm interested in web development and security.

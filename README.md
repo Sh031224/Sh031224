@@ -10,6 +10,7 @@
 [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-5373f8?style=for-the-badge&link=https://slog.website)](https://slog.website)
 [![Notion](https://img.shields.io/badge/-Notion-lightgray?style=for-the-badge&logo=notion&link=https://www.notion.so/Sh031224-46a88056930f4550bc1e542b468c743e)](https://www.notion.so/Sh031224-46a88056930f4550bc1e542b468c743e)
 [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-black?style=for-the-badge&logo=stackoverflow&link=https://stackoverflow.com/users/12651185/sh031224)](https://stackoverflow.com/users/12651185/sh031224)
+[![Medium](https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium&link=https://medium.com/@sh031224)](https://medium.com/@sh031224)
 
 
 > I love open source 😍. &nbsp; I'm interested in web development and security.

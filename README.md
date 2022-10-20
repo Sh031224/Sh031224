@@ -1,4 +1,4 @@
-# Hi <img src="./assets/Hi.gif" width="30">, I'm SeungHo.
+# Hi <img src="./assets/Hi.gif" width="30">, I'm Seungho.
 
 ### Introduce
 
@@ -15,9 +15,9 @@
 
 > I love open source 😍. &nbsp; I'm interested in web development and security.
 
-### Technology stack
+<!-- ### Technology stack -->
 
-<img width="730px" src="https://user-images.githubusercontent.com/51149996/104853602-4fb7e780-5945-11eb-97c4-4c7bde20b526.png" />
+<!-- <img width="730px" src="https://user-images.githubusercontent.com/51149996/104853602-4fb7e780-5945-11eb-97c4-4c7bde20b526.png" /> -->
 <!--
 <table>
   <thead>

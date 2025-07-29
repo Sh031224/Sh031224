@@ -7,7 +7,7 @@
 
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSh031224&count_bg=%23666666&title_bg=%23A0A0A0&icon=react.svg&icon_color=%2308BEF7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white&link=mailto:1cktmdgh2@gmail.com&style=for-the-badge)](mailto:1cktmdgh2@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white&link=mailto:1cktmdgh2@gmail.com&style=for-the-badge)](mailto:sh031224.dev@gmail.com)
 [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-5373f8?style=for-the-badge&link=https://slog.website)](https://slog.website)
 [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-black?style=for-the-badge&logo=stackoverflow&link=https://stackoverflow.com/users/12651185/sh031224)](https://stackoverflow.com/users/12651185/sh031224)
 [![Medium](https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium&link=https://medium.com/@sh031224)](https://medium.com/@sh031224)
